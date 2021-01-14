@@ -4,4 +4,4 @@
 
 
 <h3> now updated by krishna </h3>
-<p> session of learing at Wed Jan 13 23:45:45 WIB 2021</p>
+<p> session of learing at Fri Jan 15 04:12:53 WIB 2021</p>
