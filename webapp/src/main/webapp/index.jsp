@@ -7,3 +7,5 @@
 <p> session of learing at Sun Jan 17 18:04:21 WIB 2021</p>
 <p> Last Kuberneters Final Lab!</p>
 <p> memorynya dikit bgt bos</p>
+<p> saya kurang teliti pak</p>
+
