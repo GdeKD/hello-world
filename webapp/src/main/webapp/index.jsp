@@ -4,4 +4,5 @@
 
 
 <h3> now updated by krishna </h3>
-<p> session of learing at Wed Jan 13 23:45:45 WIB 2021</p>
+<p> session of learing at Sun Jan 17 18:04:21 WIB 2021</p>
+<p> Last Kuberneters Final Lab!</p>
